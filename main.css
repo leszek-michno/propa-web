@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: "Ubuntu Mono";
+
+}
+
+.bodyone {
+    background: linear-gradient(brown, darkred, brown);
+
+}
+
+.mainPhoto {
+    width: 40%;
+    height: 15%;
+    border: solid 5px white;
+    border-radius: 30px;
+    margin: 0px;
+
+}
+
+img {
+    width: 20%;
+    margin: 30px 0 0 0;
+    border: solid 3px white;
+    border-radius: 20px;
+
+}
+
+h1 {
+    font-size: 130px;
+    font-family: "Arial";
+    color: snow;
+}
+
+h2 {
+    font-size: 50px;
+
+}
+
+button {
+    background-color: black;
+    color: darkred;
+    margin: 20px 0 20px 0;
+    padding: 5px;
+    font-size: 20px;
+    font-family: "Ubuntu Mono";
+    border: white solid 2px;
+    border-radius: 10px;
+}
+a {
+    font-size: 30px;
+    color: snow;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+.oNas {
+    width: 70%;
+    border: solid 3px snow;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 50px 100px 50px 250px;
+
+}
+
+p {
+    text-align: left;
+    font-size: 25px;
+}
